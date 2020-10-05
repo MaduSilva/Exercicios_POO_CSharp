@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\bin\Debug\netcoreapp3.1\ExercicioTryCatch.exe
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\bin\Debug\netcoreapp3.1\ExercicioTryCatch.deps.json
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\bin\Debug\netcoreapp3.1\ExercicioTryCatch.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\bin\Debug\netcoreapp3.1\ExercicioTryCatch.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\bin\Debug\netcoreapp3.1\ExercicioTryCatch.dll
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\bin\Debug\netcoreapp3.1\ExercicioTryCatch.pdb
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\obj\Debug\netcoreapp3.1\ExercicioTryCatch.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\obj\Debug\netcoreapp3.1\ExercicioTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\obj\Debug\netcoreapp3.1\ExercicioTryCatch.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\obj\Debug\netcoreapp3.1\ExercicioTryCatch.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\obj\Debug\netcoreapp3.1\ExercicioTryCatch.dll
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\obj\Debug\netcoreapp3.1\ExercicioTryCatch.pdb
+C:\Users\Usuario\Documents\Projetos\ExercicioTryCatch\obj\Debug\netcoreapp3.1\ExercicioTryCatch.genruntimeconfig.cache

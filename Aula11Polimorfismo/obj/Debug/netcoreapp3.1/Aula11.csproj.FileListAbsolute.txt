@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\Aula11\bin\Debug\netcoreapp3.1\Aula11.exe
+C:\Users\Usuario\Documents\Projetos\Aula11\bin\Debug\netcoreapp3.1\Aula11.deps.json
+C:\Users\Usuario\Documents\Projetos\Aula11\bin\Debug\netcoreapp3.1\Aula11.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\Aula11\bin\Debug\netcoreapp3.1\Aula11.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\Aula11\bin\Debug\netcoreapp3.1\Aula11.dll
+C:\Users\Usuario\Documents\Projetos\Aula11\bin\Debug\netcoreapp3.1\Aula11.pdb
+C:\Users\Usuario\Documents\Projetos\Aula11\obj\Debug\netcoreapp3.1\Aula11.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\Aula11\obj\Debug\netcoreapp3.1\Aula11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula11\obj\Debug\netcoreapp3.1\Aula11.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula11\obj\Debug\netcoreapp3.1\Aula11.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\Aula11\obj\Debug\netcoreapp3.1\Aula11.dll
+C:\Users\Usuario\Documents\Projetos\Aula11\obj\Debug\netcoreapp3.1\Aula11.pdb
+C:\Users\Usuario\Documents\Projetos\Aula11\obj\Debug\netcoreapp3.1\Aula11.genruntimeconfig.cache

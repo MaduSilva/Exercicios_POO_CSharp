@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.exe
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.deps.json
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.dll
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.pdb
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.dll
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.pdb
+C:\Users\Usuario\Documents\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.genruntimeconfig.cache

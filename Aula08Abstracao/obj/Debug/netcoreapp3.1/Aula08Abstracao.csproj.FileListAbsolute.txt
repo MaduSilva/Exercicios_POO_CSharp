@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.exe
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.deps.json
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.dll
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.pdb
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.dll
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.pdb
+C:\Users\Usuario\Documents\Projetos\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.genruntimeconfig.cache

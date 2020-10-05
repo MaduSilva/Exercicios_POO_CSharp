@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\bin\Debug\netcoreapp3.1\Aula24ObjectsArguments.exe
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\bin\Debug\netcoreapp3.1\Aula24ObjectsArguments.deps.json
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\bin\Debug\netcoreapp3.1\Aula24ObjectsArguments.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\bin\Debug\netcoreapp3.1\Aula24ObjectsArguments.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\bin\Debug\netcoreapp3.1\Aula24ObjectsArguments.dll
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\bin\Debug\netcoreapp3.1\Aula24ObjectsArguments.pdb
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\obj\Debug\netcoreapp3.1\Aula24ObjectsArguments.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\obj\Debug\netcoreapp3.1\Aula24ObjectsArguments.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\obj\Debug\netcoreapp3.1\Aula24ObjectsArguments.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\obj\Debug\netcoreapp3.1\Aula24ObjectsArguments.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\obj\Debug\netcoreapp3.1\Aula24ObjectsArguments.dll
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\obj\Debug\netcoreapp3.1\Aula24ObjectsArguments.pdb
+C:\Users\Usuario\Documents\Projetos\Aula24ObjectsArguments\obj\Debug\netcoreapp3.1\Aula24ObjectsArguments.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\Ifood\obj\Debug\netcoreapp3.1\Ifood.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\Ifood\obj\Debug\netcoreapp3.1\Ifood.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\Ifood\bin\Debug\netcoreapp3.1\Ifood.exe
+C:\Users\Usuario\Documents\Projetos\Ifood\bin\Debug\netcoreapp3.1\Ifood.deps.json
+C:\Users\Usuario\Documents\Projetos\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\Ifood\bin\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\Usuario\Documents\Projetos\Ifood\bin\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\Usuario\Documents\Projetos\Ifood\obj\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\Usuario\Documents\Projetos\Ifood\obj\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\Usuario\Documents\Projetos\Ifood\obj\Debug\netcoreapp3.1\Ifood.genruntimeconfig.cache

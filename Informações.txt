@@ -1,0 +1,1 @@
+Exercícios realizados durante as aulas do SENAI INFORMÁTICA, aprendizados sobre C# POO .NET

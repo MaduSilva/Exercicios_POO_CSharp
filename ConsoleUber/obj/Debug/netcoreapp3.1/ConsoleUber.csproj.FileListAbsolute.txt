@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\bin\Debug\netcoreapp3.1\ConsoleUber.exe
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\bin\Debug\netcoreapp3.1\ConsoleUber.deps.json
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\bin\Debug\netcoreapp3.1\ConsoleUber.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\bin\Debug\netcoreapp3.1\ConsoleUber.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\bin\Debug\netcoreapp3.1\ConsoleUber.dll
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\bin\Debug\netcoreapp3.1\ConsoleUber.pdb
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\obj\Debug\netcoreapp3.1\ConsoleUber.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\obj\Debug\netcoreapp3.1\ConsoleUber.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\obj\Debug\netcoreapp3.1\ConsoleUber.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\obj\Debug\netcoreapp3.1\ConsoleUber.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\obj\Debug\netcoreapp3.1\ConsoleUber.dll
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\obj\Debug\netcoreapp3.1\ConsoleUber.pdb
+C:\Users\Usuario\Documents\Projetos\ConsoleUber\obj\Debug\netcoreapp3.1\ConsoleUber.genruntimeconfig.cache

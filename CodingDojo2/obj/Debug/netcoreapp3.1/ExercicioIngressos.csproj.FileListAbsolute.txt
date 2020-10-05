@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\bin\Debug\netcoreapp3.1\ExercicioIngressos.exe
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\bin\Debug\netcoreapp3.1\ExercicioIngressos.deps.json
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\bin\Debug\netcoreapp3.1\ExercicioIngressos.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\bin\Debug\netcoreapp3.1\ExercicioIngressos.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\bin\Debug\netcoreapp3.1\ExercicioIngressos.dll
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\bin\Debug\netcoreapp3.1\ExercicioIngressos.pdb
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\obj\Debug\netcoreapp3.1\ExercicioIngressos.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\obj\Debug\netcoreapp3.1\ExercicioIngressos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\obj\Debug\netcoreapp3.1\ExercicioIngressos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\obj\Debug\netcoreapp3.1\ExercicioIngressos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\obj\Debug\netcoreapp3.1\ExercicioIngressos.dll
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\obj\Debug\netcoreapp3.1\ExercicioIngressos.pdb
+C:\Users\Usuario\Documents\Projetos\ExercicioIngressos\obj\Debug\netcoreapp3.1\ExercicioIngressos.genruntimeconfig.cache
